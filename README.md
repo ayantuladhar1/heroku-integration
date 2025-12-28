@@ -1,15 +1,7 @@
-# Ayan Tuladhar
-# CSC3916_HW5(REACT API)
-# 04/17/2022
-
 # Please use Live Preview to view the ReactApp
 # Live Webstie
 
 [Live Preview](https://ayanhw5-react-frontend.herokuapp.com/)
-
-# Link for Backend HW4
-
-https://github.com/ayantuladhar1/CSC3916_HW4_Backend.git
 
 Purpose 
 The purpose of this assignment is to create a React Single Page App over your developed API. The interface will allow the users to search for movies, display information about the movie, see stored ratings, and allow the user to enter a rating. 
