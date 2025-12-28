@@ -4,6 +4,7 @@
 [Live Preview](https://ayanhw5-react-frontend.herokuapp.com/)
 
 Purpose 
+
 The purpose of this assignment is to create a React Single Page App over your developed API. The interface will allow the users to search for movies, display information about the movie, see stored ratings, and allow the user to enter a rating. 
 
 Pre-Requirements 
